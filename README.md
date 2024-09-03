@@ -23,7 +23,7 @@
 |                         |
 |                         |
 
-Access is bash script written in python
+Yet another python web scanner
 
 It can be used to gather intelligence on websites and webservers.
 
