@@ -48,7 +48,7 @@ sudo apt install python3-venv or python3-virtualenv
 sudo apt install python3-pip
 python3 -m venv venv
 source venv/bin/activate
-sudo apt install dos2unix figlet cowsay
+sudo apt install dos2unix figlet cowsay lolcat
 dos2unix access.sh
 pip install -r requirements.txt
 
